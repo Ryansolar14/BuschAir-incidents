@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function Dictionary(props) {
+function Flight(props) {
   return (
     <div className="term">
       <dt>
@@ -14,4 +14,4 @@ function Dictionary(props) {
   );
 }
 
-export default Dictionary;
+export default Flight;
